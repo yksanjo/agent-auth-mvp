@@ -1,5 +1,12 @@
 # agent-auth-mvp
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-auth-mvp/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-auth-mvp/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-auth-mvp)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-auth-mvp)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-auth-mvp)
+
 ## Detailed Description
 
 agent-auth-mvp is maintained as an industry-grade software project with production-ready engineering practices.  
