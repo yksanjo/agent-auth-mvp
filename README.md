@@ -1,33 +1,9 @@
-# agent-auth-mvp
+# Agent Auth MVP
 
-## Detailed Description
-
-agent-auth-mvp is a agent-focused project that evaluates agent execution signals and tool outcomes to improve autonomy safety and quality.  
-This repository now includes a runnable baseline implementation, tests, and architecture documentation for production-oriented development.
-
-## Problem Statement
-
-Teams need fast, deterministic signals to prioritize work and reduce operational risk.
-
-## Solution Overview
-
-This project ingests runtime signals, computes a deterministic score, and emits structured results for downstream workflows.
-
-## Stack
-
-node
+OAuth 2.0 authorization flow designed specifically for AI agents and autonomous systems.
 
 ## Quick Start
-
 ```bash
-# inspect baseline implementation
-ls src tests docs
-```
-
-## Repository Structure
-
-```text
-src/      # Core implementation
-tests/    # Smoke tests
-docs/     # Architecture and roadmap
+npm install
+npm run dev
 ```
