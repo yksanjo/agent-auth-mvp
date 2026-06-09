@@ -446,7 +446,7 @@ export default function Dashboard() {
           <Key className="w-16 h-16 text-gray-400 mx-auto mb-4" />
           <h3 className="text-xl font-semibold mb-2">No Active Grants</h3>
           <p className="text-gray-600 mb-6">
-            You haven't granted any permissions to agents yet. Create your first grant above.
+            You haven&apos;t granted any permissions to agents yet. Create your first grant above.
           </p>
         </div>
       )}
